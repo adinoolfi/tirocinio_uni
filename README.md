@@ -9,3 +9,7 @@ We used two python scripts to create the database:
 2. The script called "Remove_background.py" removes the background from the frames so that the focus is exclusively on the bag.
 
 We then use the open source Kohya_ss platform to develop the LoRA model that recognizes our bag.
+Once the model is developed we use it on Stable diffusion installed locally to generate our images (unfortunately I lost the file .safetensors).
+
+RESULTS:
+I uploaded the images generated in different advertising contexts into the results folder.
